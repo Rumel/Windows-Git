@@ -2,6 +2,12 @@
 
 #### Pull Requests are welcomed
 
+## Learning Git
+* [Try Git](https://try.github.io/levels/1/challenges/1)
+* [Pro Git](http://git-scm.com/book/en/v2)
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+
+## Tips
 
 If you don't have ssh set up then you'll want to store your credentials.
 Run this.
