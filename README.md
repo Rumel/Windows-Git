@@ -36,6 +36,8 @@ $ git config --global core.fscache true
 $ git config --global gc.auto 256
 ```
 
+If you create a .gitignore on Windows you actually need to name the file '.gitignore.' and then Windws will correct it to the right name.
+
 ## Git Clients
 * [Github for Windows](https://windows.github.com/)
   - Bundles [PoshGit](https://github.com/dahlbyk/posh-git)
