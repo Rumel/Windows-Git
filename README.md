@@ -1,5 +1,11 @@
 # Windows Git Tips
 
+If you don't have ssh set up then you'll want to store your credentials.
+Run this.
+```bash
+$ git config --global credential.helper wincred
+```
+
 Windows can be a real pain with line endings.
 Run this to help with that.
 ```bash
