@@ -9,6 +9,12 @@
 
 ## Tips
 
+Set up your username and email.
+```bash
+$ git config --global user.name "Dalton Dick"
+$ git config --global user.email "daltondick2010@gmail.com"
+```
+
 If you don't have ssh set up then you'll want to store your credentials.
 Run this.
 ```bash
