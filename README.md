@@ -23,3 +23,8 @@ $ git config --global core.preloadindex true
 $ git config --global core.fscache true
 $ git config --global gc.auto 256
 ```
+
+## Git Clients
+* [Github for Windows](https://windows.github.com/)
+  - Bundles [PoshGit](https://github.com/dahlbyk/posh-git)
+* [Sourcetree](http://www.sourcetreeapp.com/)
