@@ -1,5 +1,8 @@
 # Windows Git Tips
 
+#### Pull Requests are welcomed
+
+
 If you don't have ssh set up then you'll want to store your credentials.
 Run this.
 ```bash
